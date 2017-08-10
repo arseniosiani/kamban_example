@@ -1,0 +1,25 @@
+{
+  "name": "kanban_example",
+  "version": "1.0.0",
+  "description": "Esempio di Kanban con nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arseniosiani/kanban_example.git"
+  },
+  "keywords": [
+    "example",
+    "kanban",
+    "web",
+    "nodejs"
+  ],
+  "author": "Arsenio Siani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arseniosiani/kanban_example/issues"
+  },
+  "homepage": "https://github.com/arseniosiani/kanban_example#readme"
+}
