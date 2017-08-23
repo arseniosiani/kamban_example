@@ -16,10 +16,14 @@
     "webapp",
     "node js"
   ],
-  "author": "Arsenio Siani,Red, Carmela,Annalisa,Luis",
+  "author": "Arsenio,Red,Carmela,Annalisa,Luis,Angelo,Gerardo",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/arseniosiani/kanban_example/issues"
   },
-  "homepage": "https://github.com/arseniosiani/kanban_example#readme"
+  "homepage": "https://github.com/arseniosiani/kanban_example#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0"
+  }
 }
