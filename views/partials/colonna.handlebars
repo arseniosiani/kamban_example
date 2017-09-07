@@ -1,0 +1,8 @@
+<div style="width: 500px; min-height: 600px; background: grey; border: 1px solid black">
+    {{nome}}
+    {{#each cards}}
+        {{#if numero_colonna}}
+            {{> card}}
+        {{/if}}
+    {{/each}}
+</div>
